@@ -4,8 +4,8 @@
 Ett Github konto skapades med skolans email, denna användes för att skapa en branch (en separeat kopia) av coden som
 nu kan ändras utan att orginale koden berörs. den kopian clonades sedan till det lokala repositorien.
 
-En ändring i filen activity_Main.xml gjordes, vid raden där det innan stod android:text="Hello World!", står det nu mera android:text="Något Trevligt".
-Det ändringen gjorde var att byta ut texten från Hello World! till Något Trevligt.
+En ändring i filen activity_Main.xml gjordes, vid raden där det innan stod __android:text="Hello World!"__, står det nu mera __android:text="Något Trevligt"__.
+Det ändringen gjorde var att byta ut texten från *Hello World!* till *Något Trevligt*.
 
 
 
