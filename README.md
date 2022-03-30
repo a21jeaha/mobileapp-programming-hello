@@ -1,4 +1,3 @@
-
 # Rapport
 
 Ett Github konto skapades med skolans email, denna användes för att skapa en branch (en separeat kopia) av coden som
@@ -21,4 +20,5 @@ Det ändringen gjorde var att byta ut texten från *Hello World!* till *Något T
 ```
 
 ![](labbrapport.jpg)
+
 
