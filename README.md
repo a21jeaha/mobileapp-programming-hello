@@ -19,6 +19,6 @@ Det ändringen gjorde var att byta ut texten från *Hello World!* till *Något T
         app:layout_constraintTop_toTopOf="parent" />
 ```
 
-![](labbrapport.jpg)
+![](labbrapport1.jpg)
 
 
