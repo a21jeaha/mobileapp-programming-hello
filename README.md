@@ -3,6 +3,11 @@
 
 **Skriv din rapport här!**
 
+Ett Github konto skapades med skolans email, denna användes för att skapa en branch "en separeat kopia" av coden som 
+kan ändras utan att orginalet berörs. den kopian clonas sedan till den lokala repositorien. 
+
+bland koden har vi en undermapp som heter res och i den layout, filen activity_Main.xml, ändrade vi texten i android:text="Hello World!"
+till android:text="Något Trevligt"
 
 _Du kan ta bort all text som finns sedan tidigare_.
 
